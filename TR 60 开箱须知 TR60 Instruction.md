@@ -154,18 +154,18 @@ The DIP switch and the holtite sockets have exactly the same function. These two
 
 Fn20以上功能键为键盘功能键，无需配置，具体含义如下：
 
-* Fn27      清除所有已经绑定的蓝牙主机。
-* Fn20~Fn22 解除1~3的蓝牙主机绑定。如果已经绑定，则解除已经绑定的主机；开启广播允许新设备绑定。
-* Fn28~Fn30 选择3个不同的蓝牙主机。选择已经绑定的主机；如果尚未绑定，则开启广播允许新设备绑定
-* Fn31		  选择USB通道。
+* Fn27: 清除所有已经绑定的蓝牙主机。
+* Fn20\~Fn22: 解除1\~3的蓝牙主机绑定。如果已经绑定，则解除已经绑定的主机；开启广播允许新设备绑定。
+* Fn28\~Fn30: 选择3个不同的蓝牙主机。选择已经绑定的主机；如果尚未绑定，则开启广播允许新设备绑定
+* Fn31: 选择USB通道。
 * 在发货的配列中，Fn27~Fn31已经映射到了键盘的Back\Z\X\C\V，搭配层①的Fn0使用即可。
 
 Fn20 and above function keys were set to default functions as described below：
 
-* Fn27      delete all the paired Bluetooth devices
-* Fn20~Fn22 unpair number 1~3 Bluetooth devices. If there are paired devices, the devices will be unpaired. The keyboard will broadcast and search for new devices.
-* Fn28~Fn30 switch among 3 different Bluetooth devices. If the device was paired before, the device will be set as the current device. If there is no paired device, the keyboard will broadcast and search for new devices.
-* Fn31		  switch to the USB connection.
+* Fn27: delete all the paired Bluetooth devices
+* Fn20\~Fn22: unpair number 1\~3 Bluetooth devices. If there are paired devices, the devices will be unpaired. The keyboard will broadcast and search for new devices.
+* Fn28\~Fn30: switch among 3 different Bluetooth devices. If the device was paired before, the device will be set as the current device. If there is no paired device, the keyboard will broadcast and search for new devices.
+* Fn31: switch to the USB connection.
 * In the default firmware, Fn27~Fn31 have been mapped into Backspace\Z\X\C\V on layer 1.
 
 
